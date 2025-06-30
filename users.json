@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "user_id": "4ffb1726-a8bf-4111-ae05-c8d8f68e98b4",
+      "username": "admin",
+      "email": "admin@bank.com",
+      "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+      "role": "admin",
+      "full_name": "System Administrator",
+      "phone": "1234567890",
+      "is_active": true,
+      "created_date": "2025-06-29T12:32:00.749208",
+      "last_login": "2025-06-30T17:41:10.449813",
+      "customer_id": null
+    },
+    {
+      "user_id": "37b283dd-019f-4120-baad-32119ac4c1e2",
+      "username": "raza",
+      "email": "raza@gmail.com",
+      "password_hash": "92925488b28ab12584ac8fcaa8a27a0f497b2c62940c8f4fbc8ef19ebc87c43e",
+      "role": "customer",
+      "full_name": "owais",
+      "phone": "03129689057",
+      "is_active": true,
+      "created_date": "2025-06-30T17:30:11.200552",
+      "last_login": null,
+      "customer_id": null
+    }
+  ]
+}

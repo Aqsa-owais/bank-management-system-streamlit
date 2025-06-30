@@ -1,0 +1,60 @@
+{
+  "customers": [
+    {
+      "customer_id": "2a58cde5-1a97-412d-85b2-95ba7fb13784",
+      "name": "Aqsa Owais",
+      "email": "example@gmail.com",
+      "phone": "03129689057",
+      "address": "House no k-60 k area korangi 5 Karachi\nHouse no k-60 k area korangi 5 Karachi",
+      "created_date": "2025-06-29T12:37:08.003151"
+    },
+    {
+      "customer_id": "99efc573-e7d1-41d7-ba91-7d06f9e1f3af",
+      "name": "Aqsa Owais",
+      "email": "example@gmail.com",
+      "phone": "03129689057",
+      "address": "House no k-60 k area korangi 5 Karachi\nHouse no k-60 k area korangi 5 Karachi",
+      "created_date": "2025-06-29T13:24:57.350045"
+    },
+    {
+      "customer_id": "77f04248-8a48-4adb-af14-7d99052d456a",
+      "name": "Aqsa Owais",
+      "email": "raza@gmail.com",
+      "phone": "03129689057",
+      "address": "House no k-60 k area korangi 5 Karachi\nHouse no k-60 k area korangi 5 Karachi",
+      "created_date": "2025-06-30T13:05:47.297067"
+    }
+  ],
+  "accounts": [
+    {
+      "account_id": "ACC000001",
+      "customer_id": "2a58cde5-1a97-412d-85b2-95ba7fb13784",
+      "account_type": "savings",
+      "balance": 18000.01,
+      "status": "active",
+      "created_date": "2025-06-30T13:06:10.554338",
+      "transactions": [
+        {
+          "transaction_id": "a6886e8d-7a10-4e49-95a9-a52aeef5c560",
+          "account_id": "ACC000001",
+          "transaction_type": "deposit",
+          "amount": 9000.0,
+          "balance_after": 18000.0,
+          "description": "Initial deposit",
+          "timestamp": "2025-06-30T13:06:10.554486",
+          "reference_account": null
+        },
+        {
+          "transaction_id": "d79a4aa1-1ba9-4177-ba8e-110a5da75c63",
+          "account_id": "ACC000001",
+          "transaction_type": "deposit",
+          "amount": 0.01,
+          "balance_after": 18000.01,
+          "description": "Deposit",
+          "timestamp": "2025-06-30T13:06:25.250019",
+          "reference_account": null
+        }
+      ]
+    }
+  ]
+}
